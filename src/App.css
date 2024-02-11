@@ -25,3 +25,12 @@ body {
 .navbar li:hover::before {
   width: 100%;
 }
+
+.button {
+  position: fixed;
+  bottom: 80px;
+  right: 7vw;
+  background: #000;
+  padding: 15px;
+  border-radius: 50%;
+}
